@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://medicine.yale.edu/lab/cho/'>Postgraduate Associate at Cho Lab</a>|40 Temple Street|zifan.luo@yale.edu
 
 profile:
   align: right
