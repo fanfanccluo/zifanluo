@@ -2,16 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://medicine.yale.edu/lab/cho/'>Postgraduate Associate at Cho Lab</a> | 40 Temple Street | <a href='mailto:zifan.luo@yale.edu'>zifan.luo@yale.edu</a>
+subtitle: <a href='https://medicine.yale.edu/lab/cho/'>Postgraduate Associate at Cho Lab</a> | <a href='mailto:zifan.luo@yale.edu'>zifan.luo@yale.edu</a> | 40 Temple Street
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  #more_info: >
-    <p>zifan.luo@yale.edu</p>
-    <p>40 Temple Street</p>
-    <p>New Haven, CT 06511</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
