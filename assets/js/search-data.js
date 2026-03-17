@@ -486,25 +486,18 @@ ninja.data = [{
           window.open("mailto:%7A%69%66%61%6E.%6C%75%6F@%79%61%6C%65.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github_custtom',
+        title: 'Github_custtom',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://github.com/fanfanccluo", "_blank");
         },
       },{
         id: 'social-linkedin_custom',
         title: 'Linkedin_custom',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/YOUR-USERNAME/", "_blank");
+          window.open("https://www.linkedin.com/in/zifan-luo-446a73370/", "_blank");
         },
       },{
       id: 'light-theme',
